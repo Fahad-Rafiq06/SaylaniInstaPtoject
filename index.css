@@ -1,0 +1,123 @@
+body{
+    background-color: rgba(241, 241, 241, 0.849);
+}
+
+#main-img{
+    margin-left: 20%;
+    margin-top: 2%;
+}
+
+#form{
+    padding: 1% 6% 2% 6%;
+    position: absolute;
+    top: 10%;
+    left: 51%;
+    border: 1px solid rgb(214, 214, 214);
+    background-color: rgb(255, 255, 255);
+    /* height: 100%; */
+}
+
+#form h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+#form .inputs{
+    width: 150%;
+    /* margin-top: 5%; */
+    margin-bottom: 5%;
+    height: 27px;
+    margin-right: 10%;
+    padding: 2%;
+    margin-left: -25%;
+    background-color: rgba(241, 241, 241, 0.849);
+    border: none;
+    border-radius: 3px;
+
+}
+
+.login{
+    background-color: rgb(73, 178, 219);
+    border: none;
+    height: 20px;
+    /* max-width: 110%; */
+    color: white;
+    padding: 4% 0 5% 0;
+    width: 156%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 30px;
+    margin-right: 10%;
+    margin-left: -25%;
+    border-radius: 6px;
+}
+
+/* #form hr{
+    max-width: 50%;
+} */
+
+#fb{
+    margin-top: 10%;
+    color: #385185;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    text-align: center;
+}
+
+#forgot{
+    text-decoration: none;
+    color: rgb(8, 26, 8);
+}
+#second-form p{
+    padding: 1% 6% 1% 2%;
+    position: absolute;
+    top: 62%;
+    left: 51%;
+    border: 1px solid rgb(214, 214, 214);
+    background-color: rgb(255, 255, 255);
+    width: 16.5%;
+    font-weight: 500;
+
+}
+
+#sign{
+    margin: 5px;
+    color: rgb(73, 178, 219);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#third-form{
+    padding: 1% 6% 2% 6%;
+    position: absolute;
+    top: 72%;
+    left: 49%;
+    border: none
+    /* background-color: rgb(255, 255, 255); */
+}
+p{
+    text-align: center;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    border: 1px solid;
+    width: 110px;
+    height: 45px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+
+#footer{
+    margin: 4% 10% 0 10%;
+    text-align: center;
+    font-family: sans-serif;
+    color: #8e8e8e
+}
+
+
+#footer ul{
+    list-style: none;
+    display: inline;
+}
